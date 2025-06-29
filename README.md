@@ -1,2 +1,2 @@
-# javascript
-a code repo for javascript
+# Weather_Web_App
+a code repo for Weather web app
